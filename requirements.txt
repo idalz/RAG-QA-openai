@@ -1,0 +1,9 @@
+langchain 
+langchain-openai 
+langchain-chroma
+python-dotenv
+streamlit
+pypdf
+wikipedia
+arxiv
+langchainhub
