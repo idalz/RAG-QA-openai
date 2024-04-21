@@ -68,13 +68,13 @@ question = st.text_input('Ask a question')
 
 if st.button('Ask'):
     if 'agent_executor' not in st.session_state:
-        st.error("Please upload a pdf and press read button")
+        st.error("Please, upload a PDF file and press the read button.")
     else:
         if question:
             response = st.session_state.agent_executor.invoke({"input":question})
             st.write(response['output'])
         else:
-            st.error("Provide a question")
+            st.error("Please, provide a question.")
 
 uploaded_file = st.sidebar.file_uploader("Upload a PDF file", type="pdf")
 
