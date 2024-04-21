@@ -1,5 +1,5 @@
 # Q-A-RAG-chatbot
-A simple Q&amp;A with (Multi-Resource) RAG using langchain, chroma, OpenAI and streamlit.
+A simple Q&amp;A with (Multi-Source) RAG using langchain, chroma, OpenAI and streamlit.
 
 ---
 ## Streamlit App
