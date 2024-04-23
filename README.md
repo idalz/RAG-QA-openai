@@ -1,4 +1,4 @@
-# Q-A-RAG-chatbot
+# RAG-Q&amp;A-chatbot
 A simple Q&amp;A with (Multi-Source) RAG using langchain, chroma, OpenAI and streamlit.
 
 ---
