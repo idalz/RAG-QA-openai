@@ -2,6 +2,10 @@
 A simple Q&amp;A with (Multi-Source) RAG using langchain, chroma, OpenAI and streamlit.
 
 ---
+
+If you'd like to explore the web app, feel free to check out its demo on my [Hugging Face Spaces](https://huggingface.co/spaces/idalz/rag-qa-openai) page.
+
+---
 ## Streamlit App
 ![Q&A RAG Chatbot](./images/screenshot.png)
 
